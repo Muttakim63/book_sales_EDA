@@ -1,6 +1,6 @@
 # Book Sales Exploratory Data Analysis
 
-An exploratory data analysis (EDA) of a 1,070-book sales dataset, examining genre distribution, author performance, pricing, ratings, and revenue trends across publishers.
+Here I have conducted an exploratory data analysis (EDA) of a 1,070-book sales dataset, examining genre distribution, author performance, pricing, ratings, and revenue trends across publishers.
 
 ## Project Overview
 
